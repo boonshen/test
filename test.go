@@ -7,3 +7,4 @@ func main() {
 func devel() {
 
 }
+func dd() {}
